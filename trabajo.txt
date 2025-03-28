@@ -4,4 +4,5 @@ Volver a subir
 
 hola2
 
+<<<<<<< HEAD
 “Nuestro fichero es el bueno, no nos gustan los conflictos”
